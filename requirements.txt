@@ -1,3 +1,4 @@
 django
 django-admin-soft-dashboard
 django-settings-export
+django-components
